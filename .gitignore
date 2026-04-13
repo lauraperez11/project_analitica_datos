@@ -16,3 +16,5 @@ data/raw/*.csv
 
 # Variables de entorno
 .env
+
+database/*
